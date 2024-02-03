@@ -1,34 +1,15 @@
 class Solution {
     public int numUniqueEmails(String[] emails) {
-        if (emails.length == 1) {
-            return 1;
-        }
+        Set<String> uniqueEmails = new HashSet<>();
+        for(String email : emails)
+        {
+            String[] parts = email.split("@");
 
-        HashSet<String> emailSet = new HashSet<>();
-        int result = 0;
+            String[] local = parts[0].split("\\+");
 
-        for (String email : emails) {
-            int com = email.indexOf("@");
-            int plus = email.indexOf("+");
-            String res = email;
+      uniqueEmails.add(local[0].replace("." , "")+ "@"+ parts[1]);
             
-            if (plus > 0) {
-                res = email.substring(0, plus) + email.substring(com);
-            }
-            com = res.indexOf("@");
-            while (res.indexOf(".") < com) {
-                com = res.indexOf("@");
-                res = res.substring(0, res.indexOf(".")) + res.substring(res.indexOf(".") + 1);
-            }
-
-            if (emailSet.contains(res)) {
-                continue;
-            }
-
-            emailSet.add(res);
-            result++;
         }
-
-        return result;
+        return uniqueEmails.size() ;
     }
 }
