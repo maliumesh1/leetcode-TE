@@ -1,21 +1,26 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int[] copy = new int[nums.length];
-        int l = 0,r = nums.length - 1;
-        while (r>=l){
-            // check largest; add to index; increment resp pointer
+//we are going to follow two pointer approach
 
-            // largest is pos
-            if (Math.abs(nums[r]) > Math.abs(nums[l])){
-                copy[r-l] = nums[r]*nums[r];
-                r--;
-            }
-            // largest is neg; 
-            else if (Math.abs(nums[l]) >= Math.abs(nums[r])){
-                copy[r-l] = nums[l]*nums[l];
-                l++;
+        int n = nums.length;
+        int s = 0;
+        int e = n - 1;
+        int ans[] = new int[n];
+        int x = n - 1;
+
+        while (s <= e) {
+            if (Math.abs(nums[s]) > Math.abs(nums[e])) {
+                ans[x] = Math.abs(nums[s] * nums[s]);
+                x--;
+                s++;
+            } else {
+                ans[x] = Math.abs(nums[e] * nums[e]);
+                x--;
+                e--;
             }
         }
-        return copy;
+        return ans;
+
+        
     }
 }
