@@ -1,4 +1,3 @@
-// Takes 1ms
 class Solution {
     public int findDuplicate(int[] nums) {
         boolean[] arr = new boolean[nums.length];
