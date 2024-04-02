@@ -1,21 +1,17 @@
 class Solution {
     public int reverse(int x) {
-        int num = Math.abs(x);  // Original number ka absolute value nikala
-        
-        int rev = 0;  // Reversed number
-        
-        while (num != 0) {
-            int ld = num % 10;  // Last digit nikala
-            
-            // Overflow check
-            if (rev > (Integer.MAX_VALUE - ld) / 10) {
-                return 0;  // Agar overflow hua, toh 0 return kardo
-            }
-            
-            rev = rev * 10 + ld;  // Reverse mein digit ko add kiya
-            num = num / 10;  // Last digit hata diya, next iteration ke liye
+        int temp = x; // Initialize a temporary variable to store the input integer
+        long rev = 0; // Initialize a long variable to store the reversed integer. Use long to handle potential overflow cases.
+
+        while (temp != 0) { // Iterate through the digits of the input integer
+            rev = rev * 10 + temp % 10; // Extract the last digit of temp and add it to rev after multiplying rev by 10
+            temp = temp / 10; // Update temp by dividing it by 10
         }
         
-        return (x < 0) ? (-rev) : rev;  // Original number ke sign ke hisaab se result diya
+        if (rev == (int) rev) { // Check if the reversed integer fits within the range of a 32-bit signed integer
+            return (int) rev; // If it does, return it as an integer
+        } else {
+            return 0; // Otherwise, return 0 to indicate overflow
+        }
     }
 }
