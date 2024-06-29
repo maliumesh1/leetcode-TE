@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/maliumesh1/leetcode-TE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## String
+|  |
+| ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
