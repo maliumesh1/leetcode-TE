@@ -40,15 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0040-combination-sum-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/maliumesh1/leetcode-TE/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Backtracking
@@ -63,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
