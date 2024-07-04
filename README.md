@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/maliumesh1/leetcode-TE/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
