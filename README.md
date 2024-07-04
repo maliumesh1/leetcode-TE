@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/maliumesh1/leetcode-TE/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/maliumesh1/leetcode-TE/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
