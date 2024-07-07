@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/maliumesh1/leetcode-TE/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/maliumesh1/leetcode-TE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/maliumesh1/leetcode-TE/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/maliumesh1/leetcode-TE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/maliumesh1/leetcode-TE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/maliumesh1/leetcode-TE/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/maliumesh1/leetcode-TE/tree/master/2645-pass-the-pillow) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/maliumesh1/leetcode-TE/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
