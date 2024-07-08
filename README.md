@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0021-merge-two-sorted-lists) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/maliumesh1/leetcode-TE/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/maliumesh1/leetcode-TE/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/maliumesh1/leetcode-TE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/maliumesh1/leetcode-TE/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -89,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/maliumesh1/leetcode-TE/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/maliumesh1/leetcode-TE/tree/master/2645-pass-the-pillow) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/maliumesh1/leetcode-TE/tree/master/1300-critical-connections-in-a-network) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
