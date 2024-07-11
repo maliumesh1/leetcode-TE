@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/maliumesh1/leetcode-TE/tree/master/1720-crawler-log-folder) |
 ## Greedy
@@ -109,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/maliumesh1/leetcode-TE/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
