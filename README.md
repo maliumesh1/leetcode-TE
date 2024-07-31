@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1196-filling-bookcase-shelves](https://github.com/maliumesh1/leetcode-TE/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/maliumesh1/leetcode-TE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/maliumesh1/leetcode-TE/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/maliumesh1/leetcode-TE/tree/master/1333-sort-the-jumbled-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/maliumesh1/leetcode-TE/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/maliumesh1/leetcode-TE/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/maliumesh1/leetcode-TE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
