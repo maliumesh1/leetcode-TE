@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/maliumesh1/leetcode-TE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
 | [2645-pass-the-pillow](https://github.com/maliumesh1/leetcode-TE/tree/master/2645-pass-the-pillow) |
 ## Biconnected Component
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/maliumesh1/leetcode-TE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
