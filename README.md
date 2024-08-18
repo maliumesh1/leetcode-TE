@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/maliumesh1/leetcode-TE/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/maliumesh1/leetcode-TE/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/maliumesh1/leetcode-TE/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/maliumesh1/leetcode-TE/tree/master/1511-count-number-of-teams) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
