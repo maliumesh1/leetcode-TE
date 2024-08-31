@@ -25,9 +25,7 @@ class Solution {
             if (!isUpdated)
                 break;
         }
-
         return shortPath[end_node];
-
     }
 
 }
