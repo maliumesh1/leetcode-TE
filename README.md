@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/maliumesh1/leetcode-TE/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/maliumesh1/leetcode-TE/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/maliumesh1/leetcode-TE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/maliumesh1/leetcode-TE/tree/master/0664-strange-printer) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/maliumesh1/leetcode-TE/tree/master/0890-lemonade-change) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/maliumesh1/leetcode-TE/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/maliumesh1/leetcode-TE/tree/master/1333-sort-the-jumbled-numbers) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/maliumesh1/leetcode-TE/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/maliumesh1/leetcode-TE/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/maliumesh1/leetcode-TE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/maliumesh1/leetcode-TE/tree/master/0650-2-keys-keyboard) |
