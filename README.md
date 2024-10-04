@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/maliumesh1/leetcode-TE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/maliumesh1/leetcode-TE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/maliumesh1/leetcode-TE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maliumesh1/leetcode-TE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/maliumesh1/leetcode-TE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/maliumesh1/leetcode-TE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/maliumesh1/leetcode-TE/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/maliumesh1/leetcode-TE/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/maliumesh1/leetcode-TE/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/maliumesh1/leetcode-TE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/maliumesh1/leetcode-TE/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
