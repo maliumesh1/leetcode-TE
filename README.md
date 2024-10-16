@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/maliumesh1/leetcode-TE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/maliumesh1/leetcode-TE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/maliumesh1/leetcode-TE/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/maliumesh1/leetcode-TE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/maliumesh1/leetcode-TE/tree/master/1720-crawler-log-folder) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/maliumesh1/leetcode-TE/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/maliumesh1/leetcode-TE/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/maliumesh1/leetcode-TE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/maliumesh1/leetcode-TE/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/maliumesh1/leetcode-TE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/maliumesh1/leetcode-TE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/maliumesh1/leetcode-TE/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/maliumesh1/leetcode-TE/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/maliumesh1/leetcode-TE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/maliumesh1/leetcode-TE/tree/master/2616-maximal-score-after-applying-k-operations) |
