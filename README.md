@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/maliumesh1/leetcode-TE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/maliumesh1/leetcode-TE/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/maliumesh1/leetcode-TE/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/maliumesh1/leetcode-TE/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/maliumesh1/leetcode-TE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/maliumesh1/leetcode-TE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/maliumesh1/leetcode-TE/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/maliumesh1/leetcode-TE/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
