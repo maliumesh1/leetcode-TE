@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/maliumesh1/leetcode-TE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/maliumesh1/leetcode-TE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/maliumesh1/leetcode-TE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/maliumesh1/leetcode-TE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/maliumesh1/leetcode-TE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/maliumesh1/leetcode-TE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/maliumesh1/leetcode-TE/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/maliumesh1/leetcode-TE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/maliumesh1/leetcode-TE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/maliumesh1/leetcode-TE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/maliumesh1/leetcode-TE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/maliumesh1/leetcode-TE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/maliumesh1/leetcode-TE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Strongly Connected Component
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/maliumesh1/leetcode-TE/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/maliumesh1/leetcode-TE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/maliumesh1/leetcode-TE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/maliumesh1/leetcode-TE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Memoization
 |  |
 | ------- |
