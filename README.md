@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maliumesh1/leetcode-TE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2481-strictly-palindromic-number](https://github.com/maliumesh1/leetcode-TE/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/maliumesh1/leetcode-TE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/maliumesh1/leetcode-TE/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/maliumesh1/leetcode-TE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/maliumesh1/leetcode-TE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/maliumesh1/leetcode-TE/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/maliumesh1/leetcode-TE/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/maliumesh1/leetcode-TE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/maliumesh1/leetcode-TE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/maliumesh1/leetcode-TE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/maliumesh1/leetcode-TE/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/maliumesh1/leetcode-TE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/maliumesh1/leetcode-TE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/maliumesh1/leetcode-TE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/maliumesh1/leetcode-TE/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
