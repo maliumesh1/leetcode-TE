@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0021-merge-two-sorted-lists) |
+| [0233-number-of-digit-one](https://github.com/maliumesh1/leetcode-TE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/maliumesh1/leetcode-TE/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/maliumesh1/leetcode-TE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/maliumesh1/leetcode-TE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/maliumesh1/leetcode-TE/tree/master/0273-integer-to-english-words) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/maliumesh1/leetcode-TE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/maliumesh1/leetcode-TE/tree/master/0650-2-keys-keyboard) |
