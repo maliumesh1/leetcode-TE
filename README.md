@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maliumesh1/leetcode-TE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/maliumesh1/leetcode-TE/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/maliumesh1/leetcode-TE/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maliumesh1/leetcode-TE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/maliumesh1/leetcode-TE/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/maliumesh1/leetcode-TE/tree/master/0729-my-calendar-i) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/maliumesh1/leetcode-TE/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/maliumesh1/leetcode-TE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/maliumesh1/leetcode-TE/tree/master/1940-maximum-xor-for-each-query) |
