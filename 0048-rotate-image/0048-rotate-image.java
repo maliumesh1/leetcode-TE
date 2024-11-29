@@ -20,6 +20,7 @@ class Solution {
 // both the time and space complexity of the algorithm are O(n^2).
 
 // -----------------------------------------------------------------------------------
+// Striver
 // TC N*M and SC = 1
 // class Solution {
 // public void rotate(int[][] matrix) {
