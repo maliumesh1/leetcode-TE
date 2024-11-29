@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maliumesh1/leetcode-TE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/maliumesh1/leetcode-TE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/maliumesh1/leetcode-TE/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/maliumesh1/leetcode-TE/tree/master/0921-spiral-matrix-iii) |
