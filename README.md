@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/maliumesh1/leetcode-TE/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
 | [0233-number-of-digit-one](https://github.com/maliumesh1/leetcode-TE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/maliumesh1/leetcode-TE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/maliumesh1/leetcode-TE/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/maliumesh1/leetcode-TE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/maliumesh1/leetcode-TE/tree/master/0921-spiral-matrix-iii) |
