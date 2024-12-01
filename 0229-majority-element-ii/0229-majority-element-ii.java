@@ -118,8 +118,8 @@
 
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int candidate1 = Integer.MIN_VALUE;
-        int candidate2 = Integer.MIN_VALUE;
+        int candidate1 = 0;
+        int candidate2 = 0;
         int count1 = 0;
         int count2 = 0;
 
