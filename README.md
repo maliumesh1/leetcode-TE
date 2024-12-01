@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/maliumesh1/leetcode-TE/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maliumesh1/leetcode-TE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/maliumesh1/leetcode-TE/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/maliumesh1/leetcode-TE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/maliumesh1/leetcode-TE/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/maliumesh1/leetcode-TE/tree/master/0539-minimum-time-difference) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/maliumesh1/leetcode-TE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/maliumesh1/leetcode-TE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maliumesh1/leetcode-TE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
