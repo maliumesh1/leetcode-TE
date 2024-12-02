@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/maliumesh1/leetcode-TE/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/maliumesh1/leetcode-TE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/maliumesh1/leetcode-TE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/maliumesh1/leetcode-TE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/maliumesh1/leetcode-TE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/maliumesh1/leetcode-TE/tree/master/1720-crawler-log-folder) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/maliumesh1/leetcode-TE/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/maliumesh1/leetcode-TE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/maliumesh1/leetcode-TE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/maliumesh1/leetcode-TE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/maliumesh1/leetcode-TE/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/maliumesh1/leetcode-TE/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/maliumesh1/leetcode-TE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/maliumesh1/leetcode-TE/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/maliumesh1/leetcode-TE/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/maliumesh1/leetcode-TE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
