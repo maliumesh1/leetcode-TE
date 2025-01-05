@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/maliumesh1/leetcode-TE/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/maliumesh1/leetcode-TE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/maliumesh1/leetcode-TE/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/maliumesh1/leetcode-TE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/maliumesh1/leetcode-TE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/maliumesh1/leetcode-TE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/maliumesh1/leetcode-TE/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/maliumesh1/leetcode-TE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/maliumesh1/leetcode-TE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/maliumesh1/leetcode-TE/tree/master/2502-sort-the-people) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/maliumesh1/leetcode-TE/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/maliumesh1/leetcode-TE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/3427-special-array-ii) |
 ## Game Theory
 |  |
