@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/maliumesh1/leetcode-TE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/maliumesh1/leetcode-TE/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/maliumesh1/leetcode-TE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/maliumesh1/leetcode-TE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/maliumesh1/leetcode-TE/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/maliumesh1/leetcode-TE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/maliumesh1/leetcode-TE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/maliumesh1/leetcode-TE/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/maliumesh1/leetcode-TE/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/maliumesh1/leetcode-TE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/maliumesh1/leetcode-TE/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/maliumesh1/leetcode-TE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/maliumesh1/leetcode-TE/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/maliumesh1/leetcode-TE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/maliumesh1/leetcode-TE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/maliumesh1/leetcode-TE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/maliumesh1/leetcode-TE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/maliumesh1/leetcode-TE/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/maliumesh1/leetcode-TE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/maliumesh1/leetcode-TE/tree/master/2035-count-sub-islands) |
 ## Sorting
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/maliumesh1/leetcode-TE/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/maliumesh1/leetcode-TE/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/maliumesh1/leetcode-TE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/maliumesh1/leetcode-TE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/maliumesh1/leetcode-TE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/maliumesh1/leetcode-TE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/maliumesh1/leetcode-TE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/maliumesh1/leetcode-TE/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/maliumesh1/leetcode-TE/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/maliumesh1/leetcode-TE/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/maliumesh1/leetcode-TE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/maliumesh1/leetcode-TE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/maliumesh1/leetcode-TE/tree/master/2300-construct-string-with-repeat-limit) |
